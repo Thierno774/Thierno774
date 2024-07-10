@@ -1,2 +1,1 @@
-# Thierno774
 # WebScraping
